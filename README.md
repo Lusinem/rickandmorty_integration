@@ -4,7 +4,7 @@ This project is a **FastAPI-based integration** for the [Rick and Morty API](htt
 It provides endpoints to fetch, filter, and store **characters, locations, and episodes** asynchronously.
 
 
-git clone https://github.com/yourusername/rick-and-morty-integration.git
+git clone https://github.com/Lusinem/rick-and-morty-integration.git
 cd rick-and-morty-integration
 
 
